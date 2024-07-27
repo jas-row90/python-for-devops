@@ -8,5 +8,11 @@ s3_buckets_lists.append("new_s3_bucket")
 
 print(s3_buckets_lists)
 
+#Alternatively you can use: 
+#s3_buckets_lists.remove("new_s3_bucket")
+
+#print(s3_buckets_list[0])
+
+
 
 # To make this list a touple (mutable)
