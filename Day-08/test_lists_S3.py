@@ -4,5 +4,9 @@ s3_buckets_lists = ["Jas_demo_bucket", "Crystal_demo_bucket", "Jason_demo_bucket
 print(s3_buckets_lists)
 print(type[s3_buckets_lists])
 
+s3_buckets_lists.append("new_s3_bucket")
+
+print(s3_buckets_lists)
+
 
 # To make this list a touple (mutable)
