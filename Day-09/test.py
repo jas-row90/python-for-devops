@@ -5,3 +5,8 @@ for i in range(12):
 for i in range(10):
     print(i)
     print("-JRow")
+
+colors = ["yellow", "green", "blue"]
+
+for x in colors:
+    print(x)
